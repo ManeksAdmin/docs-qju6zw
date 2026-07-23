@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-aulnuq.renruixue.com/sitemap.xml
